@@ -200,4 +200,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust quotation marks according to rule 1.3 in html-and-css.md
 // refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 // refactor: adjust document type according to rule 2.2 in html-and-css.md
-
+// refactor: adjust mnemonic symbols according to rule 2.3 in html-and-css.md
