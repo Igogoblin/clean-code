@@ -208,3 +208,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust concisenss of names according to rule 3.3 in html-and-css.md
 // refactor: adjust tag selctors according to rule 3.4 in html-and-css.md
 // refactor: adjust indentation in blocks according to rule 3.5 in html-and-css.md
+// refactor: adjust space after property names according to rule 3.6 in html-and-css.md
