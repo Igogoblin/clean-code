@@ -207,3 +207,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust meaningful identifier names according to rule 3.2 in html-and-css.md
 // refactor: adjust concisenss of names according to rule 3.3 in html-and-css.md
 // refactor: adjust tag selctors according to rule 3.4 in html-and-css.md
+// refactor: adjust indentation in blocks according to rule 3.5 in html-and-css.md
