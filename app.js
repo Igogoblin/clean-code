@@ -213,3 +213,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust sepatating selectors ang properties according to rule 3.8 in html-and-css.md
 // refactor: adjust semantic according to rule 2.1 in html-and-css-extended.md
 // refactor: adjust alternative to multimedia according to rule 1.2 in html-and-css-extended.md
+// refactor: adjust BEM according to rule 2.1 in html-and-css-extended.md
