@@ -201,3 +201,16 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust HTML-formatting according to rule 2.1 in html-and-css.md
 // refactor: adjust document type according to rule 2.2 in html-and-css.md
 // refactor: adjust mnemonic symbols according to rule 2.3 in html-and-css.md
+// refactor: adjust check atribute type according to rule 2.4 in html-and-css.md
+// refactor: adjust line-wrapping according to rule 2.5 in html-and-css.md
+// refactor: adjust uniform style according to rule 3.1 in html-and-css.md
+// refactor: adjust meaningful identifier names according to rule 3.2 in html-and-css.md
+// refactor: adjust concisenss of names according to rule 3.3 in html-and-css.md
+// refactor: adjust tag selctors according to rule 3.4 in html-and-css.md
+// refactor: adjust indentation in blocks according to rule 3.5 in html-and-css.md
+// refactor: adjust space after property names according to rule 3.6 in html-and-css.md
+// refactor: adjust decimal point after properties according to rule 3.7 in html-and-css.md
+// refactor: adjust sepatating selectors ang properties according to rule 3.8 in html-and-css.md
+// refactor: adjust semantic according to rule 2.1 in html-and-css-extended.md
+// refactor: adjust alternative to multimedia according to rule 1.2 in html-and-css-extended.md
+// refactor: adjust BEM according to rule 2.1 in html-and-css-extended.md
