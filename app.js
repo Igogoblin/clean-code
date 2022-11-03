@@ -211,3 +211,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust space after property names according to rule 3.6 in html-and-css.md
 // refactor: adjust decimal point after properties according to rule 3.7 in html-and-css.md
 // refactor: adjust sepatating selectors ang properties according to rule 3.8 in html-and-css.md
+// refactor: adjust semantic according to rule 2.1 in html-and-css-extended.md
