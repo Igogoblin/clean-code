@@ -192,9 +192,10 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 
 //prevent creation of empty tasks.
 
-//Change edit to save when you are in edit mode.
+//Change edit to save when you are in edit mod
 
 
-
+// refactor: adjust semantics according to rule 1.1 in html-and-css.md
+// refactor: adjust lowercase according to rule 1.2 in html-and-css.md
 
 
