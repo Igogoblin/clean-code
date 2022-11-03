@@ -202,3 +202,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust document type according to rule 2.2 in html-and-css.md
 // refactor: adjust mnemonic symbols according to rule 2.3 in html-and-css.md
 // refactor: adjust check atribute type according to rule 2.4 in html-and-css.md
+// refactor: adjust line-wrapping according to rule 2.5 in html-and-css.md
