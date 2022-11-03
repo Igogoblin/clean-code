@@ -204,3 +204,4 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 // refactor: adjust check atribute type according to rule 2.4 in html-and-css.md
 // refactor: adjust line-wrapping according to rule 2.5 in html-and-css.md
 // refactor: adjust uniform style according to rule 3.1 in html-and-css.md
+// refactor: adjust meaningful identifier names according to rule 3.2 in html-and-css.md
