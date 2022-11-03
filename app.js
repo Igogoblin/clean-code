@@ -197,5 +197,6 @@ for (var i=0; i<completedTasksHolder.children.length;i++){
 
 // refactor: adjust semantics according to rule 1.1 in html-and-css.md
 // refactor: adjust lowercase according to rule 1.2 in html-and-css.md
+// refactor: adjust quotation marks according to rule 1.3 in html-and-css.md
 
 
